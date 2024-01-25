@@ -6,4 +6,7 @@
 .DS_Store
 *.pyc
 *.pyo
-
+*.o
+build/
+dist/
+ucrdtw.egg-info/
